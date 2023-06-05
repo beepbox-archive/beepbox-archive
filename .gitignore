@@ -1,0 +1,7 @@
+# afaik github would allow me to include the dataset, but I'm not going to include it that.
+
+dataset
+
+# requests-cache database, there's no reason to include this in the repository
+
+beepbox-archive-cache.sqlite
