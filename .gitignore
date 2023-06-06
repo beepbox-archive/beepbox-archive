@@ -5,3 +5,7 @@ dataset
 # requests-cache database, there's no reason to include this in the repository
 
 beepbox-archive-cache.sqlite
+
+# rust stuff
+
+profanity-checker/target
